@@ -1,0 +1,12 @@
+/home/vtr363/Desktop/C#Project/ProjectLibrary/bin/Debug/net6.0/ProjectLibrary.deps.json
+/home/vtr363/Desktop/C#Project/ProjectLibrary/bin/Debug/net6.0/ProjectLibrary.dll
+/home/vtr363/Desktop/C#Project/ProjectLibrary/bin/Debug/net6.0/ref/ProjectLibrary.dll
+/home/vtr363/Desktop/C#Project/ProjectLibrary/bin/Debug/net6.0/ProjectLibrary.pdb
+/home/vtr363/Desktop/C#Project/ProjectLibrary/obj/Debug/net6.0/ProjectLibrary.csproj.AssemblyReference.cache
+/home/vtr363/Desktop/C#Project/ProjectLibrary/obj/Debug/net6.0/ProjectLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/vtr363/Desktop/C#Project/ProjectLibrary/obj/Debug/net6.0/ProjectLibrary.AssemblyInfoInputs.cache
+/home/vtr363/Desktop/C#Project/ProjectLibrary/obj/Debug/net6.0/ProjectLibrary.AssemblyInfo.cs
+/home/vtr363/Desktop/C#Project/ProjectLibrary/obj/Debug/net6.0/ProjectLibrary.csproj.CoreCompileInputs.cache
+/home/vtr363/Desktop/C#Project/ProjectLibrary/obj/Debug/net6.0/ProjectLibrary.dll
+/home/vtr363/Desktop/C#Project/ProjectLibrary/obj/Debug/net6.0/ref/ProjectLibrary.dll
+/home/vtr363/Desktop/C#Project/ProjectLibrary/obj/Debug/net6.0/ProjectLibrary.pdb
