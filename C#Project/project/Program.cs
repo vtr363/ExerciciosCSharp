@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using ProjectLibrary;
 
 namespace project
@@ -8,11 +9,28 @@ namespace project
         static void Main(string[] args)
         {
 
-            System.Console.WriteLine("digite espaçadamente: Nome Preço(ex: 1.99) Quantidade");
-            string[] input = Console.ReadLine().Split(" ");
-            Produto p = new Produto(input[0], double.Parse(input[1]), int.Parse(input[2]));
+            System.Console.Write("Nome:");
+            string Nome = Console.ReadLine();
+
+            System.Console.Write("\nPreço(ex: 1.99):");
+            double Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            System.Console.Write("\nQuantidade no estoque:");
+            int Quantidade = int.Parse(Console.ReadLine());
+
+            Produto p = new Produto(Nome, Preco, Quantidade);
             
-            System.Console.WriteLine(p);
+            System.Console.WriteLine("\nDados do produto:" + p);
+
+            System.Console.WriteLine("\ndigite a quantidade de produtos a ser adicionada:");
+            p.AdicionaProduto(int.Parse(Console.ReadLine()));
+
+            System.Console.WriteLine("\nDados atualizados: " + p);
+
+            System.Console.Write("\nDigite o numero de produtos a ser removido do estoque: ");
+            p.RemoverProdutos(int.Parse(Console.ReadLine()));
+
+            System.Console.WriteLine("\nDados atualizados: " + p);
         }   
     }
 }
