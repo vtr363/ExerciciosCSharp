@@ -1,0 +1,12 @@
+/home/vtr363/Desktop/gitRepos/ProjetoC-/C# Exercicio Classes/ContaLib/bin/Debug/net6.0/ContaLib.deps.json
+/home/vtr363/Desktop/gitRepos/ProjetoC-/C# Exercicio Classes/ContaLib/bin/Debug/net6.0/ContaLib.dll
+/home/vtr363/Desktop/gitRepos/ProjetoC-/C# Exercicio Classes/ContaLib/bin/Debug/net6.0/ref/ContaLib.dll
+/home/vtr363/Desktop/gitRepos/ProjetoC-/C# Exercicio Classes/ContaLib/bin/Debug/net6.0/ContaLib.pdb
+/home/vtr363/Desktop/gitRepos/ProjetoC-/C# Exercicio Classes/ContaLib/obj/Debug/net6.0/ContaLib.csproj.AssemblyReference.cache
+/home/vtr363/Desktop/gitRepos/ProjetoC-/C# Exercicio Classes/ContaLib/obj/Debug/net6.0/ContaLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/vtr363/Desktop/gitRepos/ProjetoC-/C# Exercicio Classes/ContaLib/obj/Debug/net6.0/ContaLib.AssemblyInfoInputs.cache
+/home/vtr363/Desktop/gitRepos/ProjetoC-/C# Exercicio Classes/ContaLib/obj/Debug/net6.0/ContaLib.AssemblyInfo.cs
+/home/vtr363/Desktop/gitRepos/ProjetoC-/C# Exercicio Classes/ContaLib/obj/Debug/net6.0/ContaLib.csproj.CoreCompileInputs.cache
+/home/vtr363/Desktop/gitRepos/ProjetoC-/C# Exercicio Classes/ContaLib/obj/Debug/net6.0/ContaLib.dll
+/home/vtr363/Desktop/gitRepos/ProjetoC-/C# Exercicio Classes/ContaLib/obj/Debug/net6.0/ref/ContaLib.dll
+/home/vtr363/Desktop/gitRepos/ProjetoC-/C# Exercicio Classes/ContaLib/obj/Debug/net6.0/ContaLib.pdb
