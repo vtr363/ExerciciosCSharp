@@ -7,8 +7,8 @@ namespace ContaLib
 {
     public class ContaBanco
     {
-        public int NConta { get; }
-        public string Nome { get; private set; }
+        public int NConta { get; private set;}
+        public string Nome { get; set; }
         public double Saldo { get; private set; }
 
         public ContaBanco (int nConta, string nome) {
