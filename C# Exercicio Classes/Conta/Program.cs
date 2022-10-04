@@ -16,11 +16,16 @@ namespace Conta
             System.Console.Write("\nHaverá deposito inicial (s/n)?");
             string resp = System.Console.ReadLine().ToUpper();
             
-            ContaBanco conta = new ContaBanco(nConta, nome);
+            ContaBanco conta;
 
-            if(resp == "S"){
+            if(resp == "S")
+            {
                 System.Console.Write("\nEntre o valor de depósito inicial: ");
-                conta.Deposito(double.Parse(Console.ReadLine()));
+                conta = new ContaBanco(nConta, nome, double.Parse(Console.ReadLine()));
+            }
+            else
+            {
+                conta = new ContaBanco(nConta, nome);
             }
 
             System.Console.WriteLine("\nDados da conta: \n" + conta);

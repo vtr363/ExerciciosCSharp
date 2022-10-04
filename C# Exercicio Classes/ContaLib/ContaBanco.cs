@@ -16,13 +16,13 @@ namespace ContaLib
             this.Nome = nome;
         }
 
-        public ContaBanco (int nConta, string nome, double saldo) : this(nConta, nome) {
-            this.Saldo = saldo;
+        public ContaBanco (int nConta, string nome, double depositoInicial) : this(nConta, nome) {
+            this.Deposito(depositoInicial);
         }
 
         public override string ToString()
         {
-            return $"Conta {NConta}, Titular: {Nome}, Saldo: $ {Saldo}";
+            return $"Conta {NConta}, Titular: {Nome}, Saldo: $ {Saldo.ToString("F2")}";
         }
 
         public void Deposito(double valor){
