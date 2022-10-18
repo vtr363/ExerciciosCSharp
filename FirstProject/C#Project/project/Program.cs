@@ -31,6 +31,6 @@ namespace project
             p.RemoverProdutos(int.Parse(Console.ReadLine()));
 
             System.Console.WriteLine("\nDados atualizados: " + p);
-        }   
+        }
     }
 }
