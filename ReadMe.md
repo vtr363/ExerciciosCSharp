@@ -1,4 +1,4 @@
-# Criando projetos em C# 
+# Comandos shell para criação de projetos em C# 
 1 - Criando arquivosln
 ```bash
 dotnet new sln -n "ProjectNameSln"
