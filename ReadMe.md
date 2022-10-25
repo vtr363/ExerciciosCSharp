@@ -24,11 +24,6 @@ dotnet sln ProjectNameSln.sln add **/*.csproj
 dotnet add ProjectName/ProjectName.csproj reference ProjectNameLibrary/ProjectNameLibrary.csproj
 ```
 
-6 - Abrir no vscode e adicionar arquivos quando ele perguntar
-```shell
-code .
-```
-
 ### Codigo minimo C# 
 ```C#
 using System;
