@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = ContaLib
-build_property.ProjectDir = e:\Usuarios\Victor\Documents\GitRepos\ExerciciosCSharp\C# Exercicio Classes\ContaLib\
+build_property.RootNamespace = worker
+build_property.ProjectDir = e:\Usuarios\Victor\Documents\GitRepos\ExerciciosCSharp\Composition\worker\
