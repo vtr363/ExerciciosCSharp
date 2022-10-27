@@ -42,7 +42,9 @@ namespace ProjectName
 			System.Console.WriteLine("enter month and year to calculate income (MM/YYYY): ");
 			DateTime date = DateTime.Parse(Console.ReadLine());
 
-			
+			System.Console.WriteLine($"Name: {employee.name}");
+			System.Console.WriteLine($"Department: {employee.Department.name}");
+			System.Console.WriteLine($"Indome for {date.Year}/{date.Month}: {employee.income(date.Year, date.Month)} ");
 		}
 	}
 }

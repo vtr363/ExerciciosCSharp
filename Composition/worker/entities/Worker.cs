@@ -41,7 +41,7 @@ namespace worker.entities
                      income += contract.totalValue();
                 }
             }
-            return $"Name: {this.name}\nDepartment: {this.Department.name}\nIndome for {year}/{month}: {income.ToString("F2")}";
+            return income.ToString("F2");
         }
         
 
